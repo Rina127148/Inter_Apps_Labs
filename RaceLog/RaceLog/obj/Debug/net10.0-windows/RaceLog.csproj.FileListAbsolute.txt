@@ -1,0 +1,16 @@
+D:\Uni_Inter_Apps\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.exe
+D:\Uni_Inter_Apps\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.deps.json
+D:\Uni_Inter_Apps\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.runtimeconfig.json
+D:\Uni_Inter_Apps\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.dll
+D:\Uni_Inter_Apps\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.pdb
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.Form1.resources
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.csproj.GenerateResource.cache
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.AssemblyInfoInputs.cache
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.AssemblyInfo.cs
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.csproj.CoreCompileInputs.cache
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.dll
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\refint\RaceLog.dll
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.pdb
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.genruntimeconfig.cache
+D:\Uni_Inter_Apps\RaceLog\RaceLog\obj\Debug\net10.0-windows\ref\RaceLog.dll
